@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+   <img src="[https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10"><img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Carina+Sousa&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)">
+</div>
+
 <!--
 **carinsousa/carinsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
