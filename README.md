@@ -3,11 +3,7 @@
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=rounded&height=255&color=gradient&section=header&reversal=false&text=Carina+Sousa&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=LESI&descSize=20&descAlign=71&descAlignY=68">
 </div>
-<a href="https://github.com/Vannella">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
-   </a>
-    <img src="https://komarev.com/ghpvc/?username=vannella&label=Profile%20views&color=000000&style=flat">
-<!--
+
 **carinsousa/carinsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
